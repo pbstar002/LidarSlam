@@ -1,0 +1,70 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/button_close_white.svg</file>
+        <file>icons/button_maximize_white.svg</file>
+        <file>icons/button_minimize_white.svg</file>
+        <file>icons/button_restore_white.svg</file>
+        <file>fonts/Proxima Nova Bold.ttf</file>
+        <file>fonts/Proxima Nova Light.ttf</file>
+        <file>fonts/Proxima Nova Reg.ttf</file>
+        <file>fonts/Proxima Nova Cond.ttf</file>
+        <file>img/lidarslamlogo.png</file>
+        <file>icons/add_white_18dp.png</file>
+        <file>icons/delete_white_18dp.png</file>
+        <file>icons/arrow_back.png</file>
+        <file>icons/file.png</file>
+        <file>icons/folder.png</file>
+        <file>icons/4-black-squares.svg</file>
+        <file>icons/fullscreen_white_24dp.svg</file>
+        <file>icons/local_hospital_white_24dp.svg</file>
+        <file>icons/restart_alt_white_24dp.svg</file>
+        <file>icons/grid_view_white_24dp.svg</file>
+        <file>icons/add_box_white_24dp.svg</file>
+        <file>icons/auto_fix_high_white_24dp.svg</file>
+        <file>icons/view_in_ar_white_24dp.svg</file>
+        <file>icons/gear.svg</file>
+        <file>icons/gear-six-duotone.svg</file>
+        <file>icons/cloud-check-duotone.svg</file>
+        <file>icons/minus-duotone.svg</file>
+        <file>icons/plus-duotone.svg</file>
+        <file>icons/run.png</file>
+        <file>icons/magnifying-glass-bold.png</file>
+        <file>icons/arrows-out-cardinal-bold.png</file>
+        <file>icons/circle-half-bold.png</file>
+        <file>icons/list-bold.png</file>
+        <file>icons/cursor-bold.png</file>
+        <file>icons/add_white_24dp.svg</file>
+        <file>icons/remove_white_24dp.svg</file>
+        <file>icons/magnifying-glass-bold-dis.png</file>
+        <file>icons/list-bold-dis.png</file>
+        <file>icons/arrows-out-cardinal-bold-dis.png</file>
+        <file>icons/circle-half-bold-dis.png</file>
+        <file>icons/cursor-bold-dis.png</file>
+        <file>icons/grid-four-bold.png</file>
+        <file>icons/arrow-counter-clockwise-bold.png</file>
+        <file>icons/tree-structure-bold.png</file>
+        <file>icons/arrow-counter-clockwise-bold-dis.png</file>
+        <file>icons/tree-structure-bold-dis.png</file>
+        <file>icons/grid-four-bold-dis.png</file>
+        <file>icons/lasso-plus.png</file>
+        <file>icons/lasso-minus.png</file>
+        <file>icons/cube-bold.png</file>
+        <file>icons/arrow-u-up-left-bold.png</file>
+        <file>icons/arrow-u-down-right-bold.png</file>
+        <file>icons/lasso-minus-dis.png</file>
+        <file>icons/lasso-plus-dis.png</file>
+        <file>icons/globe-simple-bold-dis.png</file>
+        <file>icons/globe-simple-bold.png</file>
+        <file>icons/save_icon.png</file>
+        <file>icons/save_icon-dis.png</file>
+        <file>icons/ai_icon.png</file>
+        <file>icons/ai_icon-dis.png</file>
+        <file>icons/list-bold--v-dis.png</file>
+        <file>icons/list-bold-v.png</file>
+        <file>icons/brain.png</file>
+        <file>icons/brain-dis.png</file>
+        <file>icons/strash.png</file>
+        <file>icons/seye.png</file>
+        <file>icons/seyec.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,7 @@
+<launch>
+
+    <node pkg="LidarSLAM" name="laser_to_cloud" type="laser_to_cloud.py"/>
+
+	<node pkg="mim_slam" name="laserOdometry" type="laserOdometry" output="screen" />
+
+</launch>

@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+
+<launch>
+    <node pkg="LidarSLAM" type="LidarSLAM" name="Lidar_GUI_SLAM" output="screen"/>
+</launch>
